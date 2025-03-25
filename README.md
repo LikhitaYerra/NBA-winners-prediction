@@ -50,8 +50,6 @@ The final model provides accurate predictions of NBA game outcomes based on hist
 ## Contributions
 Feel free to contribute to this project by submitting pull requests or opening issues for improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 For any questions or suggestions, reach out via GitHub or email 
